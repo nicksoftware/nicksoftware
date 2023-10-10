@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas Maluleke 👋🏾 👩🏾‍💻<img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
+# Hi, I'm Nicolas Maluleke 👋🏾 👨🏾‍💻👨🏾‍💻<img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
  
 I am a fullstack developer I enjoy Designing and Developing Software Applications.
 
