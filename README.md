@@ -20,7 +20,7 @@ Technologies I use.
 ![Gulp](https://img.shields.io/badge/-Gulp-000000?style=flat&logo=Gulp&logoColor=CF4647)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 
-For more details about me visit to  [https://www.nicksoftware.co.za](https://www.nicksoftware.co.za/)
+For more details about me visit to  [https://www.nicksoftware.co.za](https://nicksoftware.co.za/)
 
 
 
